@@ -1,4 +1,4 @@
-FROM node:stretch
+FROM node:{{ .ver }}
 
 LABEL maintainer Knut Ahlers <knut@ahlers.me>
 
