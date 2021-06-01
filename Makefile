@@ -1,6 +1,7 @@
 KORVIKE_VERSION:=v0.7.1
 
 jenkins: build_latest
+jenkins: build_16
 jenkins: build_14
 jenkins: build_12
 jenkins: build_10
